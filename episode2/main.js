@@ -1,3 +1,4 @@
+// Drawing a sine wave
 window.onload = function(){
     var canvas = document.getElementById('canvas'),
     context = canvas.getContext('2d'), // With the context in hand, you can draw anything you like. 
