@@ -1,0 +1,59 @@
+Vectors
+
+A vector has magnitude (size) and direction:
+
+Adding
+We can add two vectors by joining them head-to-tail:
+And it doesn't matter which order we add them, we get the same result:
+
+Subtracting
+We can also subtract one vector from another:
+
+first we reverse the direction of the vector we want to subtract,
+then add them as usual:
+
+Adding Vectors
+We can then add vectors by adding the x parts and adding the y parts:
+
+Example: add the vectors a = (8, 13) and b = (26, 7)
+c = a + b
+
+c = (8, 13) + (26, 7) = (8+26, 13+7) = (34, 20)
+
+Subtracting Vectors
+To subtract, first reverse the vector we want to subtract, then add.
+
+Example: subtract k = (4, 5) from v = (12, 2)
+a = v + −k
+
+a = (12, 2) + −(4, 5) = (12, 2) + (−4, −5) = (12−4, 2−5) = (8, −3)
+
+
+Magnitude of a Vector
+The magnitude of a vector is shown by two vertical bars on either side of the vector:
+
+|a|
+
+OR it can be written with double vertical bars (so as not to confuse it with absolute value):
+
+||a||
+
+We use Pythagoras' theorem to calculate it:
+
+|a| = √( x2 + y2 )
+
+Vector vs Scalar
+A scalar has magnitude (size) only.
+
+Scalar: just a number (like 7 or −0.32) ... definitely not a vector.
+
+A vector has magnitude and direction, and is often written in bold, so we know it is not a scalar:
+
+ -so c is a vector, it has magnitude and direction
+ -but c is just a value, like 3 or 12.4
+
+
+Multiplying a Vector by a Scalar
+When we multiply a vector by a scalar it is called "scaling" a vector, because we change how big or small the vector is
+
+(And now you know why numbers are called "scalars", because they "scale" the vector up or down.)
